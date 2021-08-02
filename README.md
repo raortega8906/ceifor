@@ -2,4 +2,18 @@
 
 # Ceifor-Prácticas
 
-## Tareas en prácticas laborales
+## Tareas en prácticas laborales.
+
+---
+
+# Desarrolladas en Laravel 6.2.
+
+---
+
+## Tareas a cumplir
+
+- Implementación de calendario.
+- Implementación de correo.
+- Implementación de gráfica de datos.
+- Implementación de forum de debates.
+- Otras.
