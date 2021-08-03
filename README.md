@@ -2,8 +2,6 @@
 
 # Ceifor-Prácticas
 
-## Tareas en prácticas laborales.
-
 ## Desarrolladas en Laravel 6.2.
 
 ## Tareas a cumplir
