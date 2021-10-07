@@ -2,7 +2,7 @@
 
 # Ceifor-Prácticas
 
-## Desarrolladas en Laravel 6.2.
+## Desarrolladas en Laravel 6.
 
 ## Tareas a cumplir
 
